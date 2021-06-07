@@ -89,7 +89,7 @@ hr:not([size]) {
 }
 
 .img-1{
-  max-width: 300px;
+  max-width: 310px;
   height: auto;
 }
 
@@ -126,6 +126,10 @@ hr:not([size]) {
   letter-spacing: 5px;
   line-height: 1.8;
   position: relative;
+}
+
+.pr-0{
+  margin-top: 2rem;
 }
 
 
